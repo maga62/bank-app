@@ -1,0 +1,6 @@
+# Project exclude paths
+/credit-system-business/target/
+/credit-system-core/target/
+/credit-system-entities/target/
+/credit-system-repositories/target/
+/credit-system-webapi/target/
